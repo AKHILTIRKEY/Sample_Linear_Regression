@@ -1,4 +1,4 @@
-About This Project
+# About This Project
 
 This is a small machine learning project I built while learning linear regression in Python.
 The goal of this project is to understand how linear regression works and how it can be used to predict house prices.
